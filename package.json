@@ -1,10 +1,22 @@
 {
-  "name": "pgkx5AJqsX1M2b9bMWISdcEWyUMIM0gun8OWedjvplh3ILFfFv",
+  "name": "ซื้อลอตเตอรี่ ยัง ไง ให้ถูก pantip เล่นที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.43",
   "description": "ซื้อลอตเตอรี่ ยัง ไง ให้ถูก Pantip ฟัน ทั้งนี้ ซื้อลอตเตอรี่ ยัง ไง ให้ถูก Pantip Thailotto หวยออนไลน์ อันดับหนึ่ง 7เลข 2 ตัว      75 78 79ขอให้สนุกกับการซ",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["ซื้อลอตเตอรี่ ยัง ไง ให้ถูก PANTIP","ซื้อลอตเตอรี่","ยัง","ไง","ให้ถูก","PANTIP","ซื้อลอตเตอรี่ Thailotto","ยัง Thailotto","ไง Thailotto","ให้ถูก Thailotto","PANTIP Thailotto"],
+  "keywords": [
+    "ซื้อลอตเตอรี่ ยัง ไง ให้ถูก PANTIP",
+    "ซื้อลอตเตอรี่",
+    "ยัง",
+    "ไง",
+    "ให้ถูก",
+    "PANTIP",
+    "ซื้อลอตเตอรี่ Thailotto",
+    "ยัง Thailotto",
+    "ไง Thailotto",
+    "ให้ถูก Thailotto",
+    "PANTIP Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

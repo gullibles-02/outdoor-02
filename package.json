@@ -1,10 +1,16 @@
 {
-  "name": "fu19GPCLppRpT6ZYzq2CvsFXk7F7U2KTUPDmpQLAmgSEsQHly8",
+  "name": "หวยดี แอพ ทำไมถึงนิยม - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "หวยดี แอพ หวยลาว ว่า หวยดี แอพ Ltobet แอลทีโอ เบท หวยออนไลน์ มีหวยทุกชนิด ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี้ และสำหรับท่าน",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["หวยดี แอพ","หวยดี","แอพ","หวยดี Ltobet","แอพ Ltobet"],
+  "keywords": [
+    "หวยดี แอพ",
+    "หวยดี",
+    "แอพ",
+    "หวยดี Ltobet",
+    "แอพ Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

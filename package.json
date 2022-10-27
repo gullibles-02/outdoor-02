@@ -1,10 +1,18 @@
 {
-  "name": "ndVFm9TH5a6nSsG1eW7mfHyqHwBnnnNAXbXeeE9ecHScmKNoCr",
+  "name": "เลขเด็ด หวยปิงปอง วันนี้ ได้อย่างไร - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.17",
   "description": "เลขเด็ด หวยปิงปอง วันนี้ เลขเด็ด แต่ เลขเด็ด หวยปิงปอง วันนี้ ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง ดาวโจนส์ปกติ+Vip งวดวันที่ 61164ได้แนวทางเลขเด็ดจากเ",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["เลขเด็ด หวยปิงปอง วันนี้","เลขเด็ด","หวยปิงปอง","วันนี้","เลขเด็ด Thailotto","หวยปิงปอง Thailotto","วันนี้ Thailotto"],
+  "keywords": [
+    "เลขเด็ด หวยปิงปอง วันนี้",
+    "เลขเด็ด",
+    "หวยปิงปอง",
+    "วันนี้",
+    "เลขเด็ด Thailotto",
+    "หวยปิงปอง Thailotto",
+    "วันนี้ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

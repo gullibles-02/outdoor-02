@@ -1,10 +1,24 @@
 {
-  "name": "ttfddEQQQiwczBmbqbgMYvrZSL8ED366O7tUYOwau3JTkNUj2p",
+  "name": "สถิติหวย ย้อน หลัง 30 ปี excel ได้อย่างไร - เว็บใหม่ kerry899 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.37",
   "description": "สถิติหวย ย้อน หลัง 30 ปี excel หวยลาวซุปเปอร์ เท่ากับ สถิติหวย ย้อน หลัง 30 ปี excel Kerry899 หวยออนไลน์ อันดับหนึ่ง คือ หวยลาวรูปแบบใหม่ ที่เพิ่งมีการจัดก",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["สถิติหวย ย้อน หลัง 30 ปี EXCEL","สถิติหวย","ย้อน","หลัง","30","ปี","EXCEL","สถิติหวย Kerry899","ย้อน Kerry899","หลัง Kerry899","30 Kerry899","ปี Kerry899","EXCEL Kerry899"],
+  "keywords": [
+    "สถิติหวย ย้อน หลัง 30 ปี EXCEL",
+    "สถิติหวย",
+    "ย้อน",
+    "หลัง",
+    "30",
+    "ปี",
+    "EXCEL",
+    "สถิติหวย Kerry899",
+    "ย้อน Kerry899",
+    "หลัง Kerry899",
+    "30 Kerry899",
+    "ปี Kerry899",
+    "EXCEL Kerry899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,10 +1,13 @@
 {
-  "name": "Z7gXBakMqUoM7agpjlbOswaXSQwuDNIfwZslyusxdVSKEUUAGs",
+  "name": "หวยหุ้นช่องตลาดวันนี้ ที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.38",
   "description": "หวยหุ้นช่องตลาดวันนี้ เลขเด็ด หวยหุ้นช่องตลาดวันนี้ เมื่อ หวยหุ้นช่องตลาดวันนี้ Thailotto หวยออนไลน์ อันดับหนึ่ง ในงวดประจำวันพุธที่ 16 ธันวาคม 2566 เว็บไซ",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["หวยหุ้นช่องตลาดวันนี้","หวยหุ้นช่องตลาดวันนี้ Thailotto"],
+  "keywords": [
+    "หวยหุ้นช่องตลาดวันนี้",
+    "หวยหุ้นช่องตลาดวันนี้ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

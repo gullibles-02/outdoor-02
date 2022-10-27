@@ -1,0 +1,12 @@
+{
+  "name": "aCAxNjXHfREYFLEnHtZnYhPWpVkwaNSRjSrwWF6bUTZgzcktl8",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "huaylike เติมเงินไม่เข้า หวยสด ว่า huaylike เติมเงินไม่เข้า Mawinbet หวยออนไลน์ อันดับหนึ่ง คือ รูปแบบการเดิมพันที่แฝงด้วยความมันส์หลากหลายรูปแบบ ไม่ว่าจะว",
+  "repository": "https://github.com/gullibles-02/outdoor-02",
+  "keywords": ["HUAYLIKE เติมเงินไม่เข้า","HUAYLIKE","เติมเงินไม่เข้า","HUAYLIKE Mawinbet","เติมเงินไม่เข้า Mawinbet"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

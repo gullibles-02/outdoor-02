@@ -1,10 +1,20 @@
 {
-  "name": "p7HbS7oinvfRqPIXLUkBnZsDOyVLSIwRNY4fiwB14xn2wSuMgO",
+  "name": "ตรวจหวย 1 สิงหาคม 65 สรุปว่าอะไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.29",
   "description": "ตรวจหวย 1 สิงหาคม 65 เด่น อย่างไรก็ดี ตรวจหวย 1 สิงหาคม 65 ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง 1 จับเข้าคู่ชุดเลข ตรวจหวย 1 สิงหาคม 65 3 ตัว และ 2 ตั",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["ตรวจหวย 1 สิงหาคม 65","ตรวจหวย","1","สิงหาคม","65","ตรวจหวย Huay Happy","1 Huay Happy","สิงหาคม Huay Happy","65 Huay Happy"],
+  "keywords": [
+    "ตรวจหวย 1 สิงหาคม 65",
+    "ตรวจหวย",
+    "1",
+    "สิงหาคม",
+    "65",
+    "ตรวจหวย Huay Happy",
+    "1 Huay Happy",
+    "สิงหาคม Huay Happy",
+    "65 Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

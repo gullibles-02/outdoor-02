@@ -1,12 +1,10 @@
 {
-  "name": "roulette strategy เล่นยังไง - เว็บใหม่ 3star 2023 ล่าสุด",
+  "name": "ENXAOi8ncRRbJzeu93uMs2tnAQBRxg8S3HRZ5vpWqUpqZekQ3F",
   "theme": "syntax",
   "version": "1.0.41",
   "description": "Roulette strategy เณรน้อย ทว่า Roulette strategy ที่ 3Star เว็บพนัน อันดับหนึ่ง ซื้อหวยยังโยม หวยออกงวดนี่อาจเป็นท่านที่มีเฮ เเว็บหวยออนไลน์ เชื่อถือได้จ่า",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": [
-    null
-  ],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

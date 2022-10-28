@@ -1,10 +1,22 @@
 {
-  "name": "Jie0I6ojYCksqKstgmdwAIJx98qy1BiZUJZbDw0bKfNzo84E5K",
+  "name": "เว็บหวย ไม่มี เลขอั้น จ่าย เต็ม สมัครยังไง - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "เว็บหวย ไม่มี เลขอั้น จ่าย เต็ม แนวทางเลขท้าย ต่อ เว็บหวย ไม่มี เลขอั้น จ่าย เต็ม Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด 2 ตัว ได้แก่02-04-05-0612-14-",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["เว็บหวย ไม่มี เลขอั้น จ่าย เต็ม","เว็บหวย","ไม่มี","เลขอั้น","จ่าย","เต็ม","เว็บหวย Jetsadabet","ไม่มี Jetsadabet","เลขอั้น Jetsadabet","จ่าย Jetsadabet","เต็ม Jetsadabet"],
+  "keywords": [
+    "เว็บหวย ไม่มี เลขอั้น จ่าย เต็ม",
+    "เว็บหวย",
+    "ไม่มี",
+    "เลขอั้น",
+    "จ่าย",
+    "เต็ม",
+    "เว็บหวย Jetsadabet",
+    "ไม่มี Jetsadabet",
+    "เลขอั้น Jetsadabet",
+    "จ่าย Jetsadabet",
+    "เต็ม Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

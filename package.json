@@ -1,10 +1,22 @@
 {
-  "name": "w6DxxItP6rvZWIfKHrp9qh0DHQFueqjjqWgP3raldMR3sx5KX5",
+  "name": "จีนบ่าย วี ไอ พี สด ทำไมถึงนิยม - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "จีนบ่าย วี ไอ พี สด ท่านใดที่กำลังมองหาที่ เนื่องด้วย จีนบ่าย วี ไอ พี สด Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด ซื้อหวยออนไลน์ ซื้อหวยหุ้นออนไลน์ เราชาว",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["จีนบ่าย วี ไอ พี สด","จีนบ่าย","วี","ไอ","พี","สด","จีนบ่าย Huaylike","วี Huaylike","ไอ Huaylike","พี Huaylike","สด Huaylike"],
+  "keywords": [
+    "จีนบ่าย วี ไอ พี สด",
+    "จีนบ่าย",
+    "วี",
+    "ไอ",
+    "พี",
+    "สด",
+    "จีนบ่าย Huaylike",
+    "วี Huaylike",
+    "ไอ Huaylike",
+    "พี Huaylike",
+    "สด Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

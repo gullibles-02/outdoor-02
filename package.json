@@ -1,10 +1,13 @@
 {
-  "name": "1iBu37Vt4OaoCgWESntO7krh0ufMfshJG7WGfEeXDHXIvMxEwP",
+  "name": "เล่นหวยยังไง ดูที่ไหน - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "เล่นหวยยังไง หมายเหตุ อนึ่ง เล่นหวยยังไง ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตา",
   "repository": "https://github.com/gullibles-02/outdoor-02",
-  "keywords": ["เล่นหวยยังไง","เล่นหวยยังไง 999Lucky"],
+  "keywords": [
+    "เล่นหวยยังไง",
+    "เล่นหวยยังไง 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
